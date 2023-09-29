@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-   <router-link to="/generator">Generate Image</router-link>
+   <router-link to="/generator">Click Here :D</router-link>
   </div>
 </template>
 
